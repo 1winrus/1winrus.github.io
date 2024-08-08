@@ -1,8 +1,8 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "1win | Ставки и большие выигрыши!"
+author: "1Win"
+description: "ведущая платформа, предлагающая широкий спектр ставок от спортивных пари до онлайн-казино. С 1win вы получаете шанс на большие выигрыши. Присоединяйтесь сейчас и начните выигрывать!"
 permalink: /:title/
-lang: "en"
+lang: "ru"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
@@ -10,8 +10,8 @@ date_format: "%B %d, %Y"
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+show_sidebar: true        # show a sidebar instead of the usual header
+minimal: true             # use a dark header
 
 # Menu
 
